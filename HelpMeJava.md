@@ -49,3 +49,18 @@ Ai vem o seguinte codigo
     java Nomedodoc
 
 Dai ele roda
+
+### Criando variaveis
+
+No java declara igual no python assim:
+
+    int novaVariavel = 50;
+
+LEMBRA DO PONTO E VIRGULA NO FINAL DA VARIAVEL
+
+>TIPOS DE VARIAVEIS
+
+    INT = Números inteiros
+    DOUBLE = De ponto flutuante tipo o float e maior que o int
+    BOOLEAN = True or False, verdadeiro ou falso
+    CHAR = É o caractere igual ao C 
